@@ -1,0 +1,9 @@
+Basic logic is to create two variable i.e min and max and initialize the variable to the array's first element
+and loop till last keeping two condition 
+if( max < arr[i]) {
+    max= arr[i];
+
+} 
+if( min > arr[i]) {
+    min = arr[i];
+}

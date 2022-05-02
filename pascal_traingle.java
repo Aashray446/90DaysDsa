@@ -8,7 +8,7 @@ public class pascal_traingle {
             System.out.print(i);
             System.out.print(i+prev_count);
             System.out.print(i+prev_count);
-            System.out.print();
+            // System.out.print();
         }
 
     }
