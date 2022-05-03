@@ -18,7 +18,7 @@ class Solution {
             }
             
         }
-        if(error_result >= 2 && nums[rotated_index] > nums[nums.length-1]  ) {
+        if(error_result >= 1 && nums[rotated_index] < nums[nums.length-1]  ) {
                 return false;
             }
         return true;
