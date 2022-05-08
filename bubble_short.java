@@ -45,7 +45,7 @@ public class bubble_short {
             swap(arr, current_pos);
             is_changed = true;
         }   
-        current_pos = current_pos +1;
+            current_pos = current_pos +1;
         bubble_short_recur(arr, is_changed);
        
 
