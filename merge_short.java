@@ -18,7 +18,7 @@ public class merge_short {
         int[] tmp_2;
 
         int length_of_arr = arr.length / 2;
-        // Merge short need to Be Fixed for even length of the array
+        // Merge short need to Be Fixed for odd length of the array
         if( (length_of_arr%2 != 0 && length_of_arr != 1 ) ) {
             tmp_1 = new int[length_of_arr];
             tmp_2 = new int[length_of_arr+1];            
