@@ -27,3 +27,6 @@ public class counsecutive_one {
 
 }
 
+
+
+ 
