@@ -3,6 +3,8 @@ and loop till last keeping two condition
 if( max < arr[i]) {
     max= arr[i];
 
+This method should work perfectly.
+
 } 
 if( min > arr[i]) {
     min = arr[i];
